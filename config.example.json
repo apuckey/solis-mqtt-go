@@ -1,0 +1,10 @@
+{
+  "inverter": {
+    "serial": 626919225,
+    "host": "10.0.0.55:8899",
+    "connecttimeout": 5,
+    "readtimeout": 5,
+    "readinterval": 20
+  },
+  "mqttbroker": "tcp://10.0.0.60:1883"
+}
